@@ -1,0 +1,25 @@
+{
+  "name": "discord.js-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "@google-cloud/translate": "^6.1.0",
+    "anilist-node": "^1.6.1",
+    "discord-backup": "^2.4.1",
+    "discord-music-player": "^6.3.7",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "financialmodelingprep": "^1.1.0",
+    "libgen": "^2.1.0",
+    "nodemon": "^2.0.7",
+    "opusscript": "0.0.7",
+    "translation-google": "^0.2.1"
+  }
+}
